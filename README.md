@@ -20,3 +20,7 @@ An automated Batch/PowerShell script designed for IT Administrators and Support 
    set "MY_DOMAIN=yourdomain.local"
    set "MY_USER=admin_username"
    set "MY_PASS=admin_password"
+   ```
+3. บันทึกไฟล์เป็นนามสกุล .bat
+4. นำไปรันบนเครื่องที่มีปัญหา โดยคลิกขวาที่ไฟล์แล้วเลือก Run as administrator
+5. รอระบบทำงานและทำตามคำแนะนำบนหน้าจอ Message Box
